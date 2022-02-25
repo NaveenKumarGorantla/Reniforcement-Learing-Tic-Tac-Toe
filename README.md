@@ -8,3 +8,14 @@
 
 ##RL agent is trained using Monte carlo learning approach where the state function values are updated at the end of episode. 
 RL agent chooses the best action possible in different positions on the Tic Tac Toe Board.
+
+
+Commands to run program with RL agent trained on dynamic programming.
+
+$ Python tic_tac_toe_dynamic.py
+
+
+Commands to run program with RL agent trained on monte carlo learning.
+
+$ Python TicTacToe_MC.py
+
